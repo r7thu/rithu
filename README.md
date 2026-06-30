@@ -24,17 +24,17 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Rithuharshan </b></em>, an Engineering student at NIT Calicut. I enjoy learning new technologies and problem solving at Leetcode. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National Institute Of Technology Calicut </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Freelancer </b></em><br/>
+   <!-- <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/> -->
+   <!-- <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/> -->
 </p>
 
 <br/>
@@ -63,7 +63,7 @@
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r7thu&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
